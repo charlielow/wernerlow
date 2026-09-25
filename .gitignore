@@ -1,0 +1,6 @@
+# Legacy WordPress install: reference only, contains credentials in wp-config.php
+root/
+
+node_modules/
+_site/
+.DS_Store

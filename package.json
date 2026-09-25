@@ -1,0 +1,13 @@
+{
+  "name": "wernerlow",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "recover": "node scripts/recover-wayback.mjs",
+    "recover:epub": "node scripts/extract-epub.mjs"
+  },
+  "devDependencies": {
+    "cheerio": "^1.2.0",
+    "turndown": "^7.2.4"
+  }
+}

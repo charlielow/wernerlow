@@ -1,0 +1,83 @@
+---
+title: "Avalanche"
+source: "https://web.archive.org/web/20080420101540/http://www.wernerlow.com:80/avalanche.htm"
+captured: "20080420101540"
+---
+
+The evening before I left for Switzerland my old man phoned to say have a good trip, and also that I should watch out for avalanches, of which there had been a record number this year.
+
+“Probably due to global warming,” I suggested, teasingly.
+
+I could picture him raising one eyebrow — his right — in the way I've never been able to do, I guess because I got my mother's eyebrow raising gene.
+
+“You're saying there's more snow because the weather's warmer?”
+
+“Sure. Warmer weather could mean more melting and more moisture, ergo more snow up in the Alps. Also, maybe, heavier snow.”
+
+He thought about that for a second. After a decade of denying that global warming was even happening he'd finally accepted the possibility, even though he maintained that the thing to do now was to “manage the consequences,” as opposed to trying to turn things around.
+
+“It could be,” he said, finally. “It well could be. But here's the thing I wanted to tell you: I read that a big problem when you get stuck in an avalanche is that you don't know which way is up. You might be under only a couple feet of snow, but you dig down instead of up, do you see what I mean?”
+
+It was my turn to be conciliatory.
+
+“So, um, what does one do in that particular situation?” I said.
+
+“Well, what I read — and I think you'll like this, Nick — is that you work one hand up in front of your face and clear a small space. Then you spit in that hand and ...”
+
+“You see which way the spit falls.”
+
+“Exactly. And now you know which way is up.”
+
+A lot of my father's advice — especially as it regarded business, war and the environment — rubbed me the wrong way. But he was right, I did like this little tip. Partly because it sounded so vastly implausible.
+
+To my surprise, when I got to Switzerland almost every trail map had a yellow avalanche warning light flashing under it. I asked a local fellow if they were just being extra careful because it was school vacation week, and he said no, that the avalanche danger had been high all year and I should take it very seriously.
+
+I mentioned the advice my father had given me, just saying it was something “a fellow” had told me.
+
+His German accent gave his laugh a monstrous quality.
+
+“Oh no,” he said. “It is not like that. Being caught in an avalanche is like being casted in concrete. The very idea to dig is impossible. All one can hope is that a ski patrol would have reached you in time.”
+
+The way his voice trailed off at the end I wondered if he'd direct personal experience, if perhaps he'd lost a friend that way, if that was even why he was skiing alone, so I didn't push it.
+
+As for me, I was skiing alone because my relationship with Nan had blown up at the last minute, when it was too late to find someone else to go. I worried that it would feel weird — like going to the movies alone — but I slept for most of the flight over, and once I got into the mountains it felt clean and refreshing to be alone.
+
+I stuck to the marked trails for the first two days, then began to wander off-piste. On my final afternoon I watched a fellow in a bright red jacket shoot down a steep pitch and then disappear in an explosion of powder. It wasn't an avalanche — he just fell forward and sunk into the deep snow. When he didn't reappear after what felt like too long I muscled up and began to traverse over to him, but I'd only taken a couple strides when he popped out. He saw me pointed toward him waved that he was OK. I waved back but kept watching him until he got his skis back on and took off again.
+
+That was the closest I came to seeing an avalanche.
+
+It was snowing hard when I took the train from Zurich to the airport, and by the time I cleared security and entered the terminal the sky outside the tall windows was as dead white as the high bowls had been. Every so often I'd glimpse a flash of red from the tail of one of the Swiss planes nosed into the gates, then it would be lost in snow that was blowing almost horizontally. My flight was delayed an hour, then another hour, and then two more hours. I couldn't understand what they were saying on the TV but the maps didn't look promising.
+
+As I was having a cappuccino at the bar a businessman not much older than me was calling his travel agent. I must have looked at the cell phone wistfully because after he finished he asked me if I'd like to use it. I hesitated but when he said his business was paying anyway, I said sure, thanks.
+
+He went to the men's room to give me some privacy. My first thought was to call Nan. But it was 3AM in Los Angeles. Also, I had no idea why I might want to talk to her.
+
+I entered my dad's number instead. Then hesitated, my finger hovering over the “send” button.
+
+It was only 6AM in Boston. But he'd be up. Not only would he be up, he'd be down in his study, tracking my situation on his computer. He had all sorts of contacts from his days as a heavy-hitter. He'd have a long range forecast, would be able to change my ticket, get me into the Swiss Lounge, make a hotel reservation in town, whatever.
+
+On the other hand, I was 25 years old. I could handle this myself. The worst that would happen was that I'd be camped out in the terminal for a day with a bunch of young people in the same situation. It could be fun. Who knows, I might meet my future wife right here, like this, and that would be a story, wouldn't it.
+
+I could have gone either way. The thing that tipped it was when I though back to when I'd flown east for my mother's surgery. The operation was cancelled at the last minute because the chemo hadn't shrunk her tumor enough. But that was all the more reason to be there. Because of the time change from the West Coast I couldn't get to sleep the first night. I went downstairs at about one in the morning to get a beer and my father was in his study, on the computer, researching prognoses and treatments, reading up on experimental drugs, scanning blogs, and who knows what else.
+
+Spying on him from the doorway, the thing that struck me was how unexpectedly helpless he looked. The cancer had appeared out of nowhere, had raced through her already thin body in no time, and would not listen to anyone or anything.
+
+So I pressed the button. More for him than for me, I told myself.
+
+He picked up immediately.
+
+“Nick?”
+
+“Yup, and you're not gonna believe this, dad, but I'm stuck in an avalanche. You can't tell the runway from the sky. It's white in every direction.
+
+“I know,” he said, seriously, even gravely. “I can see it, I can see the weather system and, honestly, son, things don't look too good. But I have a couple ideas if you have a minute.”
+
+“A minute? I probably have like three days.”
+
+He gave a little laugh and said to hang on a minute while he opened the reservations screen.
+
+There was a pause while the information loaded and, without any warning to myself, in somewhat the same way that I'd been tempted to call Nan, I pushed over the edge and down into it.
+
+“You know, dad,” I said, “the skiing was very different from New England. Up above the tree line it was all white. The sky felt bluer than normal, and not that far above me, and there was one moment when I was alone, on a crest, and I could have sworn that mother was very near. I couldn't say whether she was behind me or in front of me or what, but she felt intensely close.”
+
+Four thousand miles away, the clicking of the keyboard stopped. I heard him take a sharp breath and could feel the tears come to his eyes, as they had to me on the mountain. It was a full three seconds before he said, “Thank you, son,” and another two seconds before he got himself back on track and began to lay out some sensible options.
