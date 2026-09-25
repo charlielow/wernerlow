@@ -3,11 +3,20 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "check-links": "linkinator _site --recurse --skip \"^https?://(?!localhost)\"",
     "recover": "node scripts/recover-wayback.mjs",
-    "recover:epub": "node scripts/extract-epub.mjs"
+    "recover:epub": "node scripts/extract-epub.mjs",
+    "normalize": "node scripts/normalize-writing.mjs"
   },
   "devDependencies": {
+    "@11ty/eleventy": "^3.1.6",
     "cheerio": "^1.2.0",
+    "linkinator": "^6.3.0",
     "turndown": "^7.2.4"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }

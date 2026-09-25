@@ -3,7 +3,6 @@ title: "Not Brian"
 form: "a very short story"
 date: "2011-10-17"
 publishedIn: "The Pedestal Magazine"
-publishedUrl: "http://www.thepedestalmagazine.com/gallery.php?item=2143&fl=1&title=not%20brian&author="
 permalink: "/not-brian-a-very-short-story/"
 source: "https://web.archive.org/web/20140309082131/http://wernerlow.com:80/not-brian-a-very-short-story/"
 ---

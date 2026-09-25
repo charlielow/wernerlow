@@ -1,0 +1,22 @@
+---
+# GitHub Pages has no server-side redirects, so each old WordPress URL gets a small meta-refresh page.
+pagination:
+  data: redirects
+  size: 1
+  alias: redirect
+permalink: "{{ redirect.from }}{% if redirect.from.endsWith('/') %}index.html{% endif %}"
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Werner Low</title>
+  <meta http-equiv="refresh" content="0; url={{ redirect.to }}">
+  <link rel="canonical" href="{{ redirect.to }}">
+  <meta name="robots" content="noindex">
+</head>
+<body>
+  <p>This page has moved to <a href="{{ redirect.to }}">{{ redirect.to }}</a>.</p>
+</body>
+</html>

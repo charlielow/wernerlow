@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.name }}</title>
+  <meta name="description" content="{{ description or site.description }}">
+  <link rel="stylesheet" href="/css/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-name" href="/">{{ site.name }}</a>
+    <nav aria-label="Main">
+      {%- for item in site.nav %}
+      <a href="{{ item.url }}"{% if page.url == item.url or (item.url == "/writing/" and "writing" in (tags or [])) %} aria-current="page"{% endif %}>{{ item.label }}</a>
+      {%- endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer class="site-footer">
+    <p>© Werner Low. All rights reserved.</p>
+  </footer>
+</body>
+</html>

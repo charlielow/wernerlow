@@ -1,0 +1,9 @@
+{
+  "name": "Werner Low",
+  "description": "Short stories, novel excerpts and commercial work by Werner Low, writer and creative director.",
+  "nav": [
+    { "label": "About", "url": "/" },
+    { "label": "Writing", "url": "/writing/" },
+    { "label": "Commercial Work", "url": "/commercial-work-page/" }
+  ]
+}

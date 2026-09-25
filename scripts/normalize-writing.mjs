@@ -16,11 +16,12 @@ const OUT_DIR = path.join(ROOT, 'src/writing');
 const FORCE = process.argv.includes('--force');
 
 // drop: number of leading paragraphs to remove (credit lines, links, duplicate title), checked by hand.
+// publishedUrl: only where the original publication page still works (checked 2026-09-25).
 // dropLast: trailing paragraphs to remove. subheads: paragraphs to turn into "##" headings.
 const STORIES = [
   {
     slug: 'avalanche-a-short-story', from: 'avalanche', title: 'Avalanche', form: 'a short story', date: '2011-09-24',
-    publishedIn: 'Void Magazine, September 2006', publishedUrl: 'http://www.voidmagazine.com/september2006/avalanche.html',
+    publishedIn: 'Void Magazine, September 2006',
     note: 'Text recovered from the 2007 version of wernerlow.com. The lightly revised 2011 version was not archived.',
     drop: 0,
   },
@@ -41,7 +42,7 @@ const STORIES = [
   },
   {
     slug: 'fever-tree-a-short-story', from: 'fever-tree-a-short-story', title: 'Fever Tree', form: 'a short story',
-    publishedIn: 'Lily Literary Review', publishedUrl: 'http://freewebs.com/lilylitreview/3_12low.html',
+    publishedIn: 'Lily Literary Review',
     drop: 3, dropLast: 1,
   },
   {
@@ -59,13 +60,11 @@ const STORIES = [
   {
     slug: 'not-brian-a-very-short-story', from: 'not-brian-a-very-short-story', title: 'Not Brian', form: 'a very short story',
     publishedIn: 'The Pedestal Magazine',
-    publishedUrl: 'http://www.thepedestalmagazine.com/gallery.php?item=2143&fl=1&title=not%20brian&author=',
     drop: 2,
   },
   {
     slug: 'pitching-marilyn-a-short-story', from: 'pitching-marilyn-a-short-story', title: 'Pitching Marilyn', form: 'a short story',
     publishedIn: 'Literary Laundry, Vol. 3, Issue 1, September 2012',
-    publishedUrl: 'http://web.literarylaundry.com/journal/volume-3-issue-1/prose-fiction/pitching-marilyn',
     drop: 4,
   },
   {

@@ -3,7 +3,6 @@ title: "Pitching Marilyn"
 form: "a short story"
 date: "2013-03-04"
 publishedIn: "Literary Laundry, Vol. 3, Issue 1, September 2012"
-publishedUrl: "http://web.literarylaundry.com/journal/volume-3-issue-1/prose-fiction/pitching-marilyn"
 permalink: "/pitching-marilyn-a-short-story/"
 source: "https://web.archive.org/web/20140128094122/http://wernerlow.com:80/pitching-marilyn-a-short-story/"
 ---

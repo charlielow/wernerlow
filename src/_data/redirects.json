@@ -1,0 +1,9 @@
+[
+  { "from": "/category/literary-work/", "to": "/writing/" },
+  { "from": "/category/literary-work/page/2/", "to": "/writing/" },
+  { "from": "/author/werner/", "to": "/writing/" },
+  { "from": "/the-same-leaf-a-short-story/", "to": "/writing/" },
+  { "from": "/contact/", "to": "/" },
+  { "from": "/180/", "to": "/" },
+  { "from": "/avalanche.htm", "to": "/avalanche-a-short-story/" }
+]

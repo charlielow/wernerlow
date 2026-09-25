@@ -1,0 +1,27 @@
+---
+layout: base.njk
+---
+<article class="story">
+  <header class="story-header">
+    <h1>{{ title }}</h1>
+    <p class="story-form">{{ form }}</p>
+    {%- if subtitle %}
+    <p class="story-subtitle">{{ subtitle }}</p>
+    {%- endif %}
+    {%- if publishedIn %}
+    <p class="story-credit">First published in {% if publishedUrl %}<a href="{{ publishedUrl }}">{{ publishedIn }}</a>{% else %}{{ publishedIn }}{% endif %}.</p>
+    {%- endif %}
+  </header>
+
+  <div class="prose">
+    {{ content | safe }}
+  </div>
+
+  <footer class="story-footer">
+    {%- if note %}
+    <p>{{ note }}</p>
+    {%- endif %}
+    <p>Posted to wernerlow.com on {{ page.date | longDate }}.</p>
+    <p><a href="/writing/">← All writing</a></p>
+  </footer>
+</article>

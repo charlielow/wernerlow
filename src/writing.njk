@@ -1,0 +1,26 @@
+---
+layout: base.njk
+title: Writing
+permalink: /writing/
+---
+{%- set stories = collections.writing | novelExcerpts(false) -%}
+{%- set novels = collections.writing | novelExcerpts(true) -%}
+
+{%- macro entry(item) %}
+<li>
+  <a href="{{ item.url }}">{{ item.data.title }}</a>
+  <span class="meta">{{ item.data.form }} · {{ item.date | year }} · {{ item.content | readingTime }}</span>
+</li>
+{%- endmacro %}
+
+<h1>Writing</h1>
+
+<h2>Stories</h2>
+<ul class="writing-list">
+  {%- for item in stories %}{{ entry(item) }}{% endfor %}
+</ul>
+
+<h2>From the novels</h2>
+<ul class="writing-list">
+  {%- for item in novels %}{{ entry(item) }}{% endfor %}
+</ul>

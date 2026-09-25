@@ -3,7 +3,6 @@ title: "Fever Tree"
 form: "a short story"
 date: "2011-10-22"
 publishedIn: "Lily Literary Review"
-publishedUrl: "http://freewebs.com/lilylitreview/3_12low.html"
 permalink: "/fever-tree-a-short-story/"
 source: "https://web.archive.org/web/20140128094101/http://wernerlow.com:80/fever-tree-a-short-story/"
 ---
