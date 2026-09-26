@@ -1,6 +1,10 @@
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ 'src/css': 'css' });
 
+  // Analytics only goes into real builds (`eleventy`), not the dev server (`eleventy --serve`),
+  // so local previews don't count as visits.
+  eleventyConfig.addGlobalData('build', { production: process.env.ELEVENTY_RUN_MODE === 'build' });
+
   // Newest first, matching the order of the old "Literary Work" category page.
   eleventyConfig.addCollection('writing', (api) =>
     api.getFilteredByGlob('src/writing/*.md').sort((a, b) => b.date - a.date),

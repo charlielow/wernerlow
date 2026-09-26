@@ -7,6 +7,16 @@
   <title>{% if title and page.url != "/" %}{{ title }} · {% endif %}{{ site.name }}</title>
   <meta name="description" content="{{ description or site.description }}">
   <link rel="stylesheet" href="/css/site.css">
+  {%- if build.production and site.googleAnalyticsId %}
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.googleAnalyticsId }}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', '{{ site.googleAnalyticsId }}');
+  </script>
+  {%- endif %}
 </head>
 <body>
   <header class="site-header">
